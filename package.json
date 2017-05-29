@@ -1,0 +1,22 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.1.1",
+    "boom": "^4.3.1",
+    "joi": "^10.5.0",
+    "hapi-swagger": "^7.7.0",
+    "inert": "^4.2.0",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
